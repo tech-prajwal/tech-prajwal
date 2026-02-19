@@ -1,16 +1,16 @@
-# Hi, I'm Prajwal Sabale! 👋
+# Hi, I'm Prajwal ! 👋
 
-### 👨‍💻 QA Automation Engineer | AI & Cloud Enthusiast
+### 👨‍💻 SDET | AI & Cloud Enthusiast
 
-I am an automation engineer passionate about breaking software to make it unbreakable. With over 4 years in the industry, I specialize in building scalable test frameworks from scratch and shifting quality left. When I'm not writing automation scripts, I'm exploring how to integrate AI and LLMs into testing workflows.
+I am an automation engineer passionate about breaking software to make it unbreakable. With over 4 years in the industry, I specialize in building scalable test frameworks utlizing shift-left practices. When I'm not writing automation scripts, I'm exploring how AI and LLMs can enhance and transform modern QA and test automation workflows.
 
 ---
 
 ### 🚀 What I Do
-* 🏗️ **Frameworks:** Building robust UI, API, and Mobile automation architectures.
+* 🏗️ **Frameworks:** Building robust UI, API, and Mobile automation.
 * 🤖 **AI Integration:** Leveraging prompt engineering to generate context-aware test cases directly in the IDE.
 * ⚡ **CI/CD:** Streamlining DevOps pipelines for continuous integration and faster delivery.
-* 🌱 **Currently Focusing On:** Advanced cloud-native testing and containerization.
+* 🌱 **Currently Focusing On:** Expanding my testing arsenal by learning **Playwright** with **JavaScript / TypeScript** and various AI tools.
 
 ---
 
