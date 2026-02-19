@@ -1,44 +1,55 @@
-# Hi there 👋, I'm Prajwal Sabale
-### 🚀 QA Automation Engineer | Shift-Left Advocate | AI-Assisted Testing Enthusiast
+# Hi, I'm Prajwal Sabale! 👋
 
-I am a QA Automation Engineer with over 4 years of experience delivering end-to-end automated testing solutions. I specialize in building robust frameworks for UI, API, and database layers within Agile environments across the Banking, Telecom, and Trade domains. I am highly passionate about in-sprint automation, early defect detection, and integrating AI into testing workflows.
+### 👨‍💻 QA Automation Engineer | AI & Cloud Enthusiast
 
-### 💡 What I Bring to the Table
-* ⚙️ **Framework Architecture:** Built enterprise-grade automation frameworks from scratch using Selenium and Java.
-* 📉 **Process Optimization:** Transitioned UAT from manual to automated SIT scripts, reducing testing effort by 70% and accelerating release cycles by two weeks.
-* 🤖 **AI-Driven QA:** Leveraged LLMs, Markdown documentation, and Prompt Engineering to generate high-quality, context-aware test cases directly within the IDE. 
-* 📱 **Omnichannel Validation:** Executed comprehensive cross-platform validation across Web UI, Mobile (Appium), and API layers.
+I am an automation engineer passionate about breaking software to make it unbreakable. With over 4 years in the industry, I specialize in building scalable test frameworks from scratch and shifting quality left. When I'm not writing automation scripts, I'm exploring how to integrate AI and LLMs into testing workflows.
 
 ---
 
-### 🛠️ My Tech Stack & Tools
-
-**Languages & Databases**
-* ☕ Java | 🛢️ SQL (PostgreSQL) | 🍃 MongoDB
-
-**Automation Frameworks & Tools**
-* 🕸️ **UI:** Selenium WebDriver | Page Object Model (POM)
-* 📱 **Mobile:** Appium | HeadSpin
-* ⚙️ **API:** Rest Assured | Postman | Newman | GraphQL
-* 🥒 **Methodologies:** BDD (Cucumber) | TestNG | FAST Framework
-
-**CI/CD, Cloud & DevOps**
-* ☁️ AWS (Athena, Cloud Practitioner) | Google Cloud Digital Leader
-* 🐳 Docker | 🐧 Linux
-* 🏗️ Jenkins | Maven | Gradle
-* 🐙 Git | GitHub | GitLab | Bitbucket
+### 🚀 What I Do
+* 🏗️ **Frameworks:** Building robust UI, API, and Mobile automation architectures.
+* 🤖 **AI Integration:** Leveraging prompt engineering to generate context-aware test cases directly in the IDE.
+* ⚡ **CI/CD:** Streamlining DevOps pipelines for continuous integration and faster delivery.
+* 🌱 **Currently Focusing On:** Advanced cloud-native testing and containerization.
 
 ---
 
-### 🏆 Certifications & Achievements
-* ☁️ AWS Certified Cloud Practitioner & Google Cloud Digital Leader
-* 🤖 Prompt Engineering Specialization (Coursera) & Copilot for Productivity (Microsoft)
-* ⭐ Awarded "Star Performer" and "Starting with a Point of View"
+### 🛠️ Tech Stack & Tools
+
+**Languages & Core**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Automation & QA**
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+
+**DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/prajwalsabale](https://linkedin.com/in/prajwalsabale)
-* **Email:** sabaleprajwal2@gmail.com
+### 📊 GitHub Activity
 
-![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tech-prajwal&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tech-prajwal&show_icons=true&theme=transparent&hide_border=true&title_color=41BDF5&icon_color=41BDF5" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-prajwal&theme=transparent&hide_border=true&title_color=41BDF5&icon_color=41BDF5" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<a href="https://linkedin.com/in/prajwalsabale" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:sabaleprajwal2@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
