@@ -6,9 +6,9 @@
 
 ### 👨‍💻 SDET | AI & Cloud Enthusiast
 
-*I am an automation engineer passionate about breaking software to make it unbreakable. With over 4 years in the industry, I specialize in building scalable test frameworks utilizing shift-left practices.*
+*I am an automation engineer passionate about breaking software to make it unbreakable. With over 4 years of industry experience, I specialize in developing scalable test automation using shift-left practices.*
 
-*When I'm not writing automation scripts, I'm exploring how AI and LLMs can enhance and transform modern QA and test automation workflows.*
+*When I'm not writing automation scripts, I explore how AI and LLMs can enhance and transform modern QA and test automation workflows.*
 
 📫 **Reach me:** <a href="mailto:sabaleprajwal2@gmail.com">sabaleprajwal2@gmail.com</a> | <a href="https://linkedin.com/in/prajwalsabale" target="_blank">LinkedIn</a>
 
@@ -17,10 +17,10 @@
 ---
 
 ### 🚀 What I Do
-* 🏗️ **Frameworks:** Building robust UI, API, and Mobile automation.
-* 🤖 **AI Integration:** Leveraging prompt engineering to generate context-aware test cases directly in the IDE.
+* 🏗️ **Frameworks:** Building and maintaining robust UI, API, and Mobile automation.
+* 🤖 **AI Integration:** Leveraging prompt engineering to generate context-aware test cases directly within the IDE.
 * ⚡ **CI/CD:** Streamlining DevOps pipelines for continuous integration and faster delivery.
-* 🌱 **Currently Focusing On:** Expanding my testing arsenal by learning **Playwright** with **JavaScript / TypeScript** and various AI tools.
+* 🌱 **Currently Focusing On:** Expanding my testing toolkit by learning **Playwright** with **JavaScript / TypeScript** and exploring AI-powered testing tools.
 
 ---
 
@@ -80,8 +80,8 @@
 
 ### 🏆 Certifications & Achievements
 
-* ☁️ **Cloud:** Amazon Web Services Cloud Practitioner Certified | GCP Digital Leader
-* 🤖 **AI & Productivity:** Specialized in Prompt Engineering (Coursera) | Microsoft Copilot for Productivity
+* ☁️ **Cloud:** AWS Cloud Practitioner Certified | GCP Digital Leader  
+* 🤖 **AI & Productivity:** Prompt Engineering (Coursera) | Microsoft Copilot for Productivity  
 * ⚙️ **Testing:** Web Automation with Java & Rest Assured (Udemy)
 
 ---
